@@ -11,43 +11,43 @@ import java.util.ArrayList;
  *
  * @author ginjo
  */
-public abstract class Aluno{
-    protected String username;
-    protected Double montante_maximo;
-    protected Viagem voto_viagem;
+public class Aluno_mestrado extends Aluno{
+
+    Aluno_mestrado(){}
     
-    Aluno(){}
-    Aluno(String username){
-        this.username = username;
-        this.montante_maximo = 0.0;
-        this.voto_viagem = new Viagem();
+    Aluno_mestrado(String username){
+        super();
     }
-    
-    abstract void votar_ponto_interesse(Ponto_interesse_local var, ArrayList<Local> lista_locais); 
-    
-    public void votar_viagem(Viagem v){
-        this.voto_viagem = v;
-        
+    @Override
+    void votar_ponto_interesse(Ponto_interesse_local var, ArrayList<Local> lista_locais) {
+        Local p = (Local)var.getVar();
+        for(Local item:lista_locais){
+            if(item.nome_cidade.equals(p.nome_cidade)){
+                item.votar_pontuacao_mestrado();
+                return;
+            }
+        }
+        /*this.voto_viagem.set_pontuacao_licenciado_mestrado((double)-5);
+        this.voto_viagem.setPonto_interesse(p);*/
     }
+
+    @Override
     public String getUsername() {
         return username;
     }
 
+    @Override
     public void setUsername(String username) {
         this.username = username;
     }
 
+    @Override
     public Double getMontante_maximo() {
         return montante_maximo;
     }
 
+    @Override
     public void setMontante_maximo(Double montante_maximo) {
         this.montante_maximo = montante_maximo;
     }
-
-    public Viagem getVoto() {
-        return voto_viagem;
-    }
-
-    
 }

@@ -8,14 +8,20 @@ package poo_1819_projeto_v01;
 /**
  *
  * @author ginjo
+ * @param <E>
  */
-public class POO_1819_projeto_v01 {
+public class Ponto_interesse_local<E> {
+    private E var;
+    public Ponto_interesse_local(E var){
+        this.var = var;
+    }
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public E getVar() {
+        return var;
+    }
+
+    public void setVar(E var) {
+        this.var = var;
     }
     
 }
