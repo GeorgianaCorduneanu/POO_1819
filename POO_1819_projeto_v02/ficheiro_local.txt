@@ -1,0 +1,10 @@
+local
+coimbra
+ponto
+museu;museu1;12:13;nao sei;2
+universidade;dei;12:50;1;lei,mei,design
+local
+braga
+ponto
+bar;swing;1;6
+parque;pontido;12;true;5

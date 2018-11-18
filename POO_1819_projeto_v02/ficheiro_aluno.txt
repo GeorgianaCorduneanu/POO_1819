@@ -1,0 +1,3 @@
+marco;licenciatura
+trator;mestrado
+maria;licenciatura
