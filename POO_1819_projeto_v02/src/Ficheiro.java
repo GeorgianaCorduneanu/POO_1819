@@ -172,7 +172,6 @@ public class Ficheiro {
                         switch (linha_separada[0]) {
                             case "museu"://museu;nome;horario;descricao;preco
                                 item = new Museu(linha_separada[1], linha_separada[2], linha_separada[3], (double)Integer.parseInt(linha_separada[4]));
-                                System.out.println(item.getNome_local() + " : " + linha_separada[0] + " : " + linha_separada[1] +" : " + linha_separada[2] +" : " + linha_separada[3] +" : " + (double)Integer.parseInt(linha_separada[4]));
                                 l.add_ponto_interesse(item);
                                 break;
                             case "parque": //parque;nome;horario;boolean;custo

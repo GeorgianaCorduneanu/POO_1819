@@ -56,4 +56,9 @@ public class Aluno_mestrado extends Aluno implements Serializable {
     public String qual_tipo(){
         return "Aluno_mestrado";
     }
+
+    @Override
+    public String toString() {
+        return "Aluno_mestrado: " + username;
+    }
 }

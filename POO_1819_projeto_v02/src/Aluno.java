@@ -52,4 +52,9 @@ public abstract class Aluno implements Serializable {
     public String qual_tipo(){
         return "Aluno";
     }
+
+    @Override
+    public String toString() {
+        return username;
+    }
 }

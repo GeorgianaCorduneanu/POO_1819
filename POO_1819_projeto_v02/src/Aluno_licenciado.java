@@ -54,4 +54,9 @@ public class Aluno_licenciado extends Aluno implements Serializable {
     public String qual_tipo(){
         return "Aluno_licenciado";
     }
+
+    @Override
+    public String toString() {
+        return "Aluno_licenciado: " + username;
+    }
 }

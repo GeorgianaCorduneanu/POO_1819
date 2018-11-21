@@ -4,9 +4,10 @@
  * and open the template in the editor.
  */
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
+import javax.swing.*;
+import javax.swing.border.Border;
+import java.awt.*;
+import java.util.*;
 import java.util.List;
 
 /**
@@ -17,14 +18,67 @@ public class Main {
     protected Viagem viagem_popular;
     protected static Local local_popular;
     protected Ponto_interesse interesse_popular;
-    protected static Aluno aluno_corrente;
-    protected static List<Local> lista_locais;
-    protected static List<Aluno> lista_alunos;
+    private static Aluno aluno_corrente;
+    private static List<Local> lista_locais;
+    private static List<Aluno> lista_alunos;
+    private static JFrame frame;
+
     
     public static void main(String [] args){
         Ficheiro ficheiro_txt = new Ficheiro();
+        JButton botao_login = new JButton("LOGIN");
+        JButton botao_regitar = new JButton("REGISTAR");
+        JTextField caixa_texto_username = new JTextField("username", 10);
+        JPanel painel = new JPanel();
+        JPanel painel_login = new JPanel();
+        JPanel painel_referencias_alunos = new JPanel();
+        JPanel painel_principal = new JPanel();
+        JList list;
+        JScrollPane listScroller;
+        SpringLayout layout = new SpringLayout();
+
         lista_locais = ficheiro_txt.devolve_lista_local();
         lista_alunos = ficheiro_txt.devolve_lista_aluno();
+        Aluno [] lista_alunos_list = lista_alunos.toArray(new Aluno[0]);
+        //definir a frame do menu inicial com listas de alunos
+        list = new JList(lista_alunos_list);
+        list.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
+        list.setLayoutOrientation(JList.VERTICAL);
+        list.setVisibleRowCount(-1);
+       // listScroller = new JScrollPane(list);
+        list.setSelectionMode(ListSelectionModel.SINGLE_SELECTION); //selecionar apenas um username
+
+        frame = new JFrame();
+        frame.setTitle("Menu inicial");
+        frame.setSize(300, 300);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //usar o flowlayout
+
+        /*painel_referencias_alunos.setLayout(new GridLayout(2,1));
+        painel_referencias_alunos.add(list);
+        painel_referencias_alunos.add(botao_regitar);
+
+        painel_login.setLayout(new GridLayout(1,2));
+        painel_login.add(caixa_texto_username);
+        painel_login.add(botao_login);*/
+
+        /*painel.setLayout(new BorderLayout());
+
+        painel.add(painel_referencias_alunos, BorderLayout.NORTH);
+        painel.add(painel_login, BorderLayout.SOUTH);*/
+      /*  painel.setLayout(new GridLayout(3,1));
+
+        painel.add(painel_referencias_alunos);
+        painel.add(botao_regitar);*/
+       // painel.add(painel_login);
+
+       // painel_principal.setLayout(new SpringLayout());
+       // painel_principal.add(painel_login);
+
+        painel_principal.add(painel_referencias_alunos);
+        painel_principal.add(painel_login);
+
+        frame.add(painel_principal);
+        frame.setVisible(true);
         /*System.out.println("********** Dentro da classe main **********");
 
         for(Local l:lista_locais){
