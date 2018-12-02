@@ -50,4 +50,5 @@ public class Bar extends Ponto_interesse implements Serializable {
     public String qual_tipo(){
         return "Bar";
     }
+
 }

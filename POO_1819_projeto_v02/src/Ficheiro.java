@@ -40,10 +40,13 @@ public class Ficheiro {
         this.local_ficheiro_obj_aluno = "ficheiro_obj_aluno";
         this.nome_txt_ficheiro_local = "ficheiro_local.txt";
         this.nome_txt_ficheiro_aluno = "ficheiro_aluno.txt";
+
         leitura_txt_lista_local();
-        leitura_txt_lista_aluno();
-        escrita_obj_aluno();
-        escrita_obj_local();
+        //leitura_txt_lista_aluno();
+        lista_local.addAll(leitura_obj_lista_local());
+        lista_aluno.addAll(leitura_obj_lista_aluno());
+        //escrita_obj_aluno();
+        //escrita_obj_local();
         /*System.out.println("********** Dentro da classe ficheiro **********");
         ArrayList<Local> l = leitura_obj_lista_local();
         ArrayList<Aluno> a = leitura_obj_lista_aluno();
@@ -65,6 +68,7 @@ public class Ficheiro {
         this.nome_txt_ficheiro_local = nome_txt_ficheiro_local;
         this.nome_txt_ficheiro_aluno = nome_txt_ficheiro_aluno;
     }
+
     public void escrita_obj_local(){
         FileOutputStream fout;
         ObjectOutputStream oos;
@@ -80,6 +84,7 @@ public class Ficheiro {
             Logger.getLogger(Ficheiro.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+
     public void escrita_obj_aluno(){
         FileOutputStream fout;
         ObjectOutputStream oos;
@@ -95,6 +100,7 @@ public class Ficheiro {
             Logger.getLogger(Ficheiro.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+
     public Boolean add_to_lista_local(Local local){
         for(Local item :lista_local){
             if(item.nome_cidade.equals(local.nome_cidade)){
@@ -103,14 +109,22 @@ public class Ficheiro {
         }
         return true;
     }
+
     public Boolean add_to_lista_aluno(Aluno a){
+        if(lista_aluno.isEmpty()){
+            lista_aluno.add(a);
+            return true;
+        }
        for(Aluno item :lista_aluno){
+           System.out.println(item.username + " : " + a.username);
             if(item.username.equals(a.username)){
                 return false;
             }
         }
+        lista_aluno.add(a);
         return true;
     }
+
     private void leitura_txt_lista_aluno(){
         Aluno a;
         File f =  new File(nome_txt_ficheiro_aluno);
@@ -140,6 +154,7 @@ public class Ficheiro {
             System.out.println("Ficheiro nao existe");
         }    
     }
+
     private void leitura_txt_lista_local(){
         int aux=0; //0 local // 1 ponto interesse
         int contagem=-1;
@@ -201,6 +216,7 @@ public class Ficheiro {
             
         }
     }
+
     private ArrayList<Local> leitura_obj_lista_local(){
         ArrayList<Local> lista = new ArrayList<>();
         FileInputStream filein;
@@ -220,6 +236,7 @@ public class Ficheiro {
         }
         return lista;
     }
+
     private ArrayList<Aluno> leitura_obj_lista_aluno(){
         ArrayList<Aluno> lista = new ArrayList<>();
         FileInputStream filein;
@@ -238,6 +255,18 @@ public class Ficheiro {
             Logger.getLogger(Ficheiro.class.getName()).log(Level.SEVERE, null, ex);
         }
         return lista;
+    }
+
+    public void atualiza_corrente_viagem(Aluno aluno){
+        for(int i=0 ; i<lista_aluno.size() ; i++){
+            if(lista_aluno.get(i).getUsername().equals(aluno.getUsername())) {
+                lista_aluno.set(i, aluno);
+                escrita_obj_aluno();
+                System.out.println("Depois de escrever");
+                return;
+            }
+            System.out.println("nao encontrou aluno");
+        }
     }
 
     public void setNome_ficheiro_obj_local(String nome_ficheiro_obj_local) {

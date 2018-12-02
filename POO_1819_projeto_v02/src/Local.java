@@ -38,11 +38,13 @@ public class Local implements Serializable {
     }
 
     public void votar_pontuacao_mestrado(){
-        pontuacao_voto -= 5;
+        pontuacao_voto -= 5.0;
     }
+
     public void votar_pontuacao_voto(){
-        pontuacao_voto += 1;
+        pontuacao_voto += 1.0;
     }
+
     public void add_ponto_interesse(Ponto_interesse p){
         lista_pontos_interesse.add(p);
     }
@@ -68,4 +70,8 @@ public class Local implements Serializable {
         return pontuacao_voto;
     }
 
+    @Override
+    public String toString() {
+        return "Local: " + nome_cidade;
+     }
 }

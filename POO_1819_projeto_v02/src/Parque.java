@@ -43,4 +43,5 @@ public class Parque extends Ponto_interesse implements Serializable {
     public String qual_tipo(){
         return "Parque";
     }
+
 }

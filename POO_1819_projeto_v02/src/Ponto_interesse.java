@@ -19,7 +19,7 @@ public class Ponto_interesse implements Serializable {
     Ponto_interesse(String nome_local){
         this.nome_local = nome_local;
         this.horario = null;
-        this.pontuacao= 0.0;
+        this.pontuacao = 0.0;
     }
     
     Ponto_interesse(String horario, String nome_local){
@@ -28,10 +28,14 @@ public class Ponto_interesse implements Serializable {
         this.nome_local = nome_local;
     }
     public void add_pontuacao_utilizador(){
-        this.pontuacao += 1;
+        this.pontuacao += 1.0;
     }
     public void set_pontuacao_licenciado(){
-        this.pontuacao += 5;
+        try {
+            this.pontuacao += 5.0;
+        }catch (NullPointerException d){
+            this.pontuacao = 5.0;
+        }
     }
     public String getHorario() {
         return horario;
@@ -59,5 +63,14 @@ public class Ponto_interesse implements Serializable {
 
     public String qual_tipo(){
         return "Ponto_interesse";
+    }
+
+    @Override
+    public String toString() {
+        return "Ponto_interesse{" +
+                "horario='" + horario + '\'' +
+                ", pontuacao=" + pontuacao +
+                ", nome_local='" + nome_local + '\'' +
+                '}';
     }
 }

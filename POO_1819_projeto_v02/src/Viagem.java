@@ -31,7 +31,6 @@ public class Viagem implements Serializable {
         this.custo_total = 0.0;
         this.custo_viagem = 0.0;
     }
-    
     public Local getLocal1() {
         return local1;
     }

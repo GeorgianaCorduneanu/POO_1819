@@ -15,20 +15,35 @@ public abstract class Aluno implements Serializable {
     protected String username;
     protected Double montante_maximo;
     protected Viagem voto_viagem;
+    protected Viagem viagem_escolhida_com_museu;
+    protected Viagem viagem_escolhida_sem_museu;
+    protected ArrayList<Ponto_interesse> lista_pontos_interesse;
     
     Aluno(){}
     Aluno(String username){
         this.username = username;
         this.montante_maximo = 0.0;
-        this.voto_viagem = new Viagem();
+        this.voto_viagem = null;
+        this.viagem_escolhida_com_museu = null;
+        this.viagem_escolhida_sem_museu = null;
+        lista_pontos_interesse = new ArrayList<>();
     }
-    
-    abstract void votar_ponto_interesse(Ponto_interesse_local var, ArrayList<Local> lista_locais); 
-    
+
+    abstract void votar_ponto_interesse_local(Ponto_interesse p, Local l);
+
+
     public void votar_viagem(Viagem v){
         this.voto_viagem = v;
-        
     }
+
+    public ArrayList<Ponto_interesse> getLista_pontos_interesse() {
+        return lista_pontos_interesse;
+    }
+
+    public void setLista_pontos_interesse(ArrayList<Ponto_interesse> lista_pontos_interesse) {
+        this.lista_pontos_interesse = lista_pontos_interesse;
+    }
+
     public String getUsername() {
         return username;
     }
@@ -55,6 +70,10 @@ public abstract class Aluno implements Serializable {
 
     @Override
     public String toString() {
-        return username;
+        return "Aluno{" +
+                "username='" + username + '\'' +
+                ", montante_maximo=" + montante_maximo +
+                ", voto_viagem=" + voto_viagem.toString() +
+                '}';
     }
 }

@@ -8,3 +8,8 @@ braga
 ponto
 bar;swing;1;6
 parque;pontido;12;true;5
+local
+porto
+ponto
+bar;swing;1;6
+parque;pontido;12;true;5

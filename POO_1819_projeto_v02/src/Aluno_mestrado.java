@@ -12,26 +12,30 @@ import java.util.ArrayList;
  * @author ginjo
  */
 public class Aluno_mestrado extends Aluno implements Serializable {
-
+    Local local_evitar;
     Aluno_mestrado(){}
     
     Aluno_mestrado(String username){
         super.username = username;
         super.montante_maximo = 0.0;
-        super.voto_viagem = new Viagem();
+        super.voto_viagem = null;
+        local_evitar = null;
     }
+
+    public Local getLocal_evitar() {
+        return local_evitar;
+    }
+
+    public void setLocal_evitar(Local local_evitar) {
+        this.local_evitar = local_evitar;
+    }
+
     @Override
-    void votar_ponto_interesse(Ponto_interesse_local var, ArrayList<Local> lista_locais) {
-        Local p = (Local)var.getVar();
-        for(Local item:lista_locais){
-            if(item.nome_cidade.equals(p.nome_cidade)){
-                item.votar_pontuacao_mestrado();
-                return;
-            }
-        }
-        /*this.voto_viagem.set_pontuacao_licenciado_mestrado((double)-5);
-        this.voto_viagem.setPonto_interesse(p);*/
+    void votar_ponto_interesse_local(Ponto_interesse p, Local l) {
+        setLocal_evitar(l);
+        l.votar_pontuacao_mestrado();
     }
+
 
     @Override
     public String getUsername() {

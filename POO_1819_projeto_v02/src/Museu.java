@@ -61,5 +61,4 @@ public class Museu extends Ponto_interesse implements Serializable {
     public String qual_tipo(){
         return "Museu";
     }
-    
 }
