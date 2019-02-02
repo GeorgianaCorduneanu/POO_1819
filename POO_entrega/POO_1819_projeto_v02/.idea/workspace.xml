@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b455cc7a-5e45-4c37-b53e-1e75bf8b371f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO_1819_projeto_v02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POO_1819_projeto_v02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ficheiro_local.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ficheiro_local.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ficheiro_obj_aluno" beforeDir="false" afterPath="$PROJECT_DIR$/ficheiro_obj_aluno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Bar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ficheiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ficheiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$voto_custo_comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$voto_pontuacao_ponto_interesse_comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Museu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Museu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Parque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Parque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ponto_interesse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ponto_interesse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Universidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Universidade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Viagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Viagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aluno_licenciado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno_licenciado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ficheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ficheiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Local.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Museu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Museu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ponto_interesse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ponto_interesse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Universidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Universidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Viagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viagem.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/POO_1819_projeto_v02$Main.ic" NAME="Main Coverage Results" MODIFIED="1544450598670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="129026000">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ficheiro_obj_aluno" value="1" />
+          <entry key="java" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2799" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2799" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-419055192">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.opened" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="41757" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="41757" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="64" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.49621785">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="88">
+                  <caret line="31" column="36" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="36" />
+                  <folding>
+                    <element signature="class#1367:2528" />
+                    <element signature="method#windowOpened#0;class#1367:2528" />
+                    <element signature="method#windowClosing#0;class#1367:2528" />
+                    <element signature="method#windowClosed#0;class#1367:2528" />
+                    <element signature="method#windowIconified#0;class#1367:2528" />
+                    <element signature="method#windowDeiconified#0;class#1367:2528" />
+                    <element signature="method#windowActivated#0;class#1367:2528" />
+                    <element signature="method#windowDeactivated#0;class#1367:2528" />
+                    <element signature="e#2604#2605#0" expanded="true" />
+                    <element signature="e#2645#2646#0" expanded="true" />
+                    <element signature="class#3920:4451" />
+                    <element signature="method#mousePressed#0;class#3920:4451" />
+                    <element signature="method#mouseReleased#0;class#3920:4451" />
+                    <element signature="method#mouseEntered#0;class#3920:4451" />
+                    <element signature="method#mouseExited#0;class#3920:4451" />
+                    <element signature="class#4489:5133" />
+                    <element signature="method#mouseClicked#0;class#4489:5133" />
+                    <element signature="method#mousePressed#0;class#4489:5133" />
+                    <element signature="method#mouseReleased#0;class#4489:5133" />
+                    <element signature="method#mouseEntered#0;class#4489:5133" />
+                    <element signature="method#mouseExited#0;class#4489:5133" />
+                    <element signature="class#5191:5596" />
+                    <element signature="method#actionPerformed#0;class#5191:5596" />
+                    <element signature="class#5650:6055" />
+                    <element signature="method#actionPerformed#0;class#5650:6055" />
+                    <element signature="class#6100:6580" />
+                    <element signature="method#actionPerformed#0;class#6100:6580" />
+                    <element signature="class#6627:8103" />
+                    <element signature="method#actionPerformed#0;class#6627:8103" />
+                    <element signature="class#10740:12279" />
+                    <element signature="class#12864:13445" />
+                    <element signature="method#actionPerformed#0;class#12864:13445" />
+                    <element signature="method#pagina_inicial#0;class#Main#0" />
+                    <element signature="method#registar_aluno#0;class#Main#0" />
+                    <element signature="method#ver_perfil#0;class#Main#0" />
+                    <element signature="method#gerar_viagens_com_museu#0;class#Main#0" />
+                    <element signature="method#todas_as_combinacoes_v02#0;class#Main#0" />
+                    <element signature="method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+                    <element signature="method#ver_populares#0;class#Main#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Viagem.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+                  <folding>
+                    <element signature="docComment;class#Viagem#0" />
+                    <element signature="method#Viagem#0;class#Viagem#0" />
+                    <element signature="method#votar_locais#0;class#Viagem#0" />
+                    <element signature="method#tem_museu#0;class#Viagem#0" />
+                    <element signature="method#setLocal1#0;class#Viagem#0" />
+                    <element signature="method#setLocal2#0;class#Viagem#0" />
+                    <element signature="method#setLocal3#0;class#Viagem#0" />
+                    <element signature="method#setLista_ponto_interesse#0;class#Viagem#0" />
+                    <element signature="method#imprime_lista_pontos_interesse#0;class#Viagem#0" />
+                    <element signature="method#toString#0;class#Viagem#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Ficheiro.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="55" selection-start-line="55" selection-end-line="59" selection-end-column="30" />
+                  <folding>
+                    <element signature="docComment;class#Ficheiro#0" />
+                    <element signature="method#atualiza_populares#0;class#Ficheiro#0" />
+                    <element signature="e#2421#2445#0" />
+                    <element signature="method#escrita_obj_aluno#0;class#Ficheiro#0" />
+                    <element signature="docComment;method#add_to_lista_aluno#0;class#Ficheiro#0" />
+                    <element signature="method#add_to_lista_aluno#0;class#Ficheiro#0" />
+                    <element signature="docComment;method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+                    <element signature="method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+                    <element signature="docComment;method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+                    <element signature="e#11385#11386#0" expanded="true" />
+                    <element signature="e#11419#11420#0" expanded="true" />
+                    <element signature="e#11467#11468#0" expanded="true" />
+                    <element signature="e#11501#11502#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="336" column="47" selection-start-line="336" selection-start-column="47" selection-end-line="336" selection-end-column="47" />
+                  <folding>
+                    <element signature="docComment;class#Main#0" />
+                    <element signature="method#Main#0;class#Main#0" />
+                    <element signature="class#1367:2528" />
+                    <element signature="method#windowOpened#0;class#1367:2528" />
+                    <element signature="method#windowClosing#0;class#1367:2528" />
+                    <element signature="method#windowClosed#0;class#1367:2528" />
+                    <element signature="method#windowIconified#0;class#1367:2528" />
+                    <element signature="method#windowDeiconified#0;class#1367:2528" />
+                    <element signature="method#windowActivated#0;class#1367:2528" />
+                    <element signature="method#windowDeactivated#0;class#1367:2528" />
+                    <element signature="method#menu_inicial#0;class#Main#0" />
+                    <element signature="class#3920:4451" />
+                    <element signature="method#mousePressed#0;class#3920:4451" />
+                    <element signature="method#mouseReleased#0;class#3920:4451" />
+                    <element signature="method#mouseEntered#0;class#3920:4451" />
+                    <element signature="method#mouseExited#0;class#3920:4451" />
+                    <element signature="class#4489:5133" />
+                    <element signature="method#mouseClicked#0;class#4489:5133" />
+                    <element signature="method#mousePressed#0;class#4489:5133" />
+                    <element signature="method#mouseReleased#0;class#4489:5133" />
+                    <element signature="method#mouseEntered#0;class#4489:5133" />
+                    <element signature="method#mouseExited#0;class#4489:5133" />
+                    <element signature="method#votar_pontos_hot_not#0;class#Main#0" />
+                    <element signature="method#montante_acumulado#0;class#Main#0" />
+                    <element signature="method#pagina_inicial#0;class#Main#0" />
+                    <element signature="docComment;method#registar_aluno#0;class#Main#0" />
+                    <element signature="method#registar_aluno#0;class#Main#0" />
+                    <element signature="method#ver_perfil#0;class#Main#0" />
+                    <element signature="method#escolher_viagem_com_museu#0;class#Main#0" />
+                    <element signature="docComment;method#gerar_viagens_com_museu#0;class#Main#0" />
+                    <element signature="method#gerar_viagens_com_museu#0;class#Main#0" />
+                    <element signature="docComment;method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+                    <element signature="method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+                    <element signature="method#ver_populares#0;class#Main#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lista_locais_pontos</find>
+      <find>em pa</find>
+      <find>JOP</find>
+      <find>if(aluno_corrente.getviagem</find>
+      <find>getViagem_escolhi</find>
+      <find>org.apa</find>
+      <find>org.</find>
+      <find>trans</find>
+      <find>custo_trans</find>
+      <find>getCusto_Tra</find>
+      <find>com_mus</find>
+      <find>limpa_frame</find>
+      <find>devolve</find>
+      <find>null</find>
+      <find>ArrayList&lt;</find>
+      <find>lista_locais</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Aluno_mestrado.java" />
+        <option value="$PROJECT_DIR$/src/Bar.java" />
+        <option value="$PROJECT_DIR$/src/Parque.java" />
+        <option value="$PROJECT_DIR$/src/Viagem.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Local.java" />
+        <option value="$PROJECT_DIR$/src/Museu.java" />
+        <option value="$PROJECT_DIR$/src/Aluno_licenciado.java" />
+        <option value="$PROJECT_DIR$/src/Aluno.java" />
+        <option value="$PROJECT_DIR$/src/Universidade.java" />
+        <option value="$PROJECT_DIR$/src/Ponto_interesse.java" />
+        <option value="$PROJECT_DIR$/src/Ficheiro.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="POO_1819_projeto_v02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO_1819_projeto_v02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO_1819_projeto_v02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO_1819_projeto_v02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545086993102" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-lang.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="POO_1819_projeto_v02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b455cc7a-5e45-4c37-b53e-1e75bf8b371f" name="Default Changelist" comment="" />
+      <created>1542314067803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542314067803</updated>
+      <workItem from="1542314069006" duration="1235000" />
+      <workItem from="1542485217646" duration="2644000" />
+      <workItem from="1542563177338" duration="5885000" />
+      <workItem from="1542574407936" duration="5189000" />
+      <workItem from="1542651407848" duration="1805000" />
+      <workItem from="1542796046646" duration="6434000" />
+      <workItem from="1542908979494" duration="3474000" />
+      <workItem from="1543015360372" duration="4360000" />
+      <workItem from="1543077950831" duration="2075000" />
+      <workItem from="1543257155638" duration="1287000" />
+      <workItem from="1543279691098" duration="287000" />
+      <workItem from="1543487031067" duration="3174000" />
+      <workItem from="1543506377841" duration="14157000" />
+      <workItem from="1543577686805" duration="82000" />
+      <workItem from="1543588942022" duration="6496000" />
+      <workItem from="1543662913073" duration="220000" />
+      <workItem from="1543664375455" duration="657000" />
+      <workItem from="1543795413889" duration="671000" />
+      <workItem from="1543830427955" duration="13520000" />
+      <workItem from="1543852859828" duration="7067000" />
+      <workItem from="1543879733008" duration="587000" />
+      <workItem from="1543915793373" duration="9872000" />
+      <workItem from="1544113505836" duration="14686000" />
+      <workItem from="1544174239254" duration="6235000" />
+      <workItem from="1544355229458" duration="2759000" />
+      <workItem from="1544385284350" duration="135000" />
+      <workItem from="1544387716839" duration="12486000" />
+      <workItem from="1544435479312" duration="11728000" />
+      <workItem from="1544487034040" duration="12976000" />
+      <workItem from="1544718570840" duration="4778000" />
+      <workItem from="1544746560679" duration="660000" />
+      <workItem from="1545081893899" duration="4790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15873016" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3276923" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.23538461" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39846155" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32923076" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32923076" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>659</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>658</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>651</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>752</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>762</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>767</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>751</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aluno.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ficheiro.java</url>
+          <line>257</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ficheiro.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>452</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>981</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>961</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>967</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>968</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>982</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>528</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>531</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>535</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>538</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>539</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>407</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>408</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>411</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>412</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>413</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>419</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>418</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>420</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>755</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>label_viagem_com_museu</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ficheiro_obj_aluno">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno_mestrado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="516" selection-start-line="516" selection-end-line="516" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Viagem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#Viagem#0" />
+            <element signature="method#Viagem#0;class#Viagem#0" />
+            <element signature="method#votar_locais#0;class#Viagem#0" />
+            <element signature="method#tem_museu#0;class#Viagem#0" />
+            <element signature="method#setLocal1#0;class#Viagem#0" />
+            <element signature="method#setLocal2#0;class#Viagem#0" />
+            <element signature="method#setLocal3#0;class#Viagem#0" />
+            <element signature="method#setLista_ponto_interesse#0;class#Viagem#0" />
+            <element signature="method#imprime_lista_pontos_interesse#0;class#Viagem#0" />
+            <element signature="method#toString#0;class#Viagem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno_licenciado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1814#1815#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
+            <element signature="e#1930#1931#0" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#1995#1996#0" expanded="true" />
+            <element signature="e#2378#2379#0" expanded="true" />
+            <element signature="e#2408#2409#0" expanded="true" />
+            <element signature="e#2461#2462#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Universidade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+          <folding>
+            <element signature="e#2680#2681#0" expanded="true" />
+            <element signature="e#2717#2718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ponto_interesse_local.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ponto_interesse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
+          <folding>
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1796#1797#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+            <element signature="e#2090#2091#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2222#2223#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2282#2283#0" expanded="true" />
+            <element signature="e#2324#2325#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#2571#2572#0" expanded="true" />
+            <element signature="e#2620#2621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Local.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#2744#0" expanded="true" />
+            <element signature="method#Local#0;class#Local#0" />
+            <element signature="method#Local#1;class#Local#0" />
+            <element signature="method#Local#2;class#Local#0" />
+            <element signature="method#setLista_pontos_interesse#0;class#Local#0" />
+            <element signature="e#1627#1628#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
+            <element signature="method#remove_ponto_interesse#0;class#Local#0" />
+            <element signature="e#2152#2153#0" expanded="true" />
+            <element signature="e#2204#2205#0" expanded="true" />
+            <element signature="e#2242#2243#0" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2376#2377#0" expanded="true" />
+            <element signature="e#2417#2418#0" expanded="true" />
+            <element signature="e#2454#2455#0" expanded="true" />
+            <element signature="e#2489#2490#0" expanded="true" />
+            <element signature="e#2520#2521#0" expanded="true" />
+            <element signature="e#2568#2569#0" expanded="true" />
+            <element signature="e#2608#2609#0" expanded="true" />
+            <element signature="e#2644#2645#0" expanded="true" />
+            <element signature="e#2676#2677#0" expanded="true" />
+            <element signature="e#2726#2727#0" expanded="true" />
+            <element signature="e#2768#2769#0" expanded="true" />
+            <element signature="e#2814#2815#0" expanded="true" />
+            <element signature="e#2862#2863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Museu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <folding>
+            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#1891#1892#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="class#1367:2528" />
+            <element signature="method#windowOpened#0;class#1367:2528" />
+            <element signature="method#windowClosing#0;class#1367:2528" />
+            <element signature="method#windowClosed#0;class#1367:2528" />
+            <element signature="method#windowIconified#0;class#1367:2528" />
+            <element signature="method#windowDeiconified#0;class#1367:2528" />
+            <element signature="method#windowActivated#0;class#1367:2528" />
+            <element signature="method#windowDeactivated#0;class#1367:2528" />
+            <element signature="e#2604#2605#0" expanded="true" />
+            <element signature="e#2645#2646#0" expanded="true" />
+            <element signature="class#3920:4451" />
+            <element signature="method#mousePressed#0;class#3920:4451" />
+            <element signature="method#mouseReleased#0;class#3920:4451" />
+            <element signature="method#mouseEntered#0;class#3920:4451" />
+            <element signature="method#mouseExited#0;class#3920:4451" />
+            <element signature="class#4489:5133" />
+            <element signature="method#mouseClicked#0;class#4489:5133" />
+            <element signature="method#mousePressed#0;class#4489:5133" />
+            <element signature="method#mouseReleased#0;class#4489:5133" />
+            <element signature="method#mouseEntered#0;class#4489:5133" />
+            <element signature="method#mouseExited#0;class#4489:5133" />
+            <element signature="class#5191:5596" />
+            <element signature="method#actionPerformed#0;class#5191:5596" />
+            <element signature="class#5650:6055" />
+            <element signature="method#actionPerformed#0;class#5650:6055" />
+            <element signature="class#6100:6580" />
+            <element signature="method#actionPerformed#0;class#6100:6580" />
+            <element signature="class#6627:8103" />
+            <element signature="method#actionPerformed#0;class#6627:8103" />
+            <element signature="class#10740:12279" />
+            <element signature="class#12864:13445" />
+            <element signature="method#actionPerformed#0;class#12864:13445" />
+            <element signature="method#pagina_inicial#0;class#Main#0" />
+            <element signature="method#registar_aluno#0;class#Main#0" />
+            <element signature="method#ver_perfil#0;class#Main#0" />
+            <element signature="method#gerar_viagens_com_museu#0;class#Main#0" />
+            <element signature="method#todas_as_combinacoes_v02#0;class#Main#0" />
+            <element signature="method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+            <element signature="method#ver_populares#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ficheiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="55" selection-start-line="55" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#Ficheiro#0" />
+            <element signature="method#atualiza_populares#0;class#Ficheiro#0" />
+            <element signature="e#2421#2445#0" />
+            <element signature="method#escrita_obj_aluno#0;class#Ficheiro#0" />
+            <element signature="docComment;method#add_to_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="method#add_to_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="docComment;method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="docComment;method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+            <element signature="e#11385#11386#0" expanded="true" />
+            <element signature="e#11419#11420#0" expanded="true" />
+            <element signature="e#11467#11468#0" expanded="true" />
+            <element signature="e#11501#11502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>POO_1819_projeto_v02:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>POO_1819_projeto_v02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,13 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b455cc7a-5e45-4c37-b53e-1e75bf8b371f" name="Default Changelist" comment="" />
+    <list default="true" id="b455cc7a-5e45-4c37-b53e-1e75bf8b371f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO_1819_projeto_v02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POO_1819_projeto_v02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ficheiro_local.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ficheiro_local.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ficheiro_obj_aluno" beforeDir="false" afterPath="$PROJECT_DIR$/ficheiro_obj_aluno" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ficheiro_obj_local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno_licenciado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Aluno_licenciado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Bar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ficheiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ficheiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$voto_custo_comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main$voto_pontuacao_ponto_interesse_comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Museu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Museu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Parque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Parque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ponto_interesse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Ponto_interesse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Universidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Universidade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Viagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO_1819_projeto_v02/Viagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aluno_licenciado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno_licenciado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ficheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ficheiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Local.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Local.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Museu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Museu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ponto_interesse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ponto_interesse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Universidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Universidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Viagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Viagem.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/POO_1819_projeto_v02$Main.ic" NAME="Main Coverage Results" MODIFIED="1544450598670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="129026000">
@@ -50,100 +103,100 @@
     <session id="-419055192">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="2" />
           <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.57" value="2" />
           <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.85" value="1" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14187" />
+          <entry key="java" value="42886" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14187" />
+          <entry key="JAVA" value="42886" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="java" value="83" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="83" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="544" column="31" selection-start-line="544" selection-start-column="31" selection-end-line="544" selection-end-column="31" />
+            <state relative-caret-position="8534">
+              <caret line="614" column="33" selection-start-line="614" selection-start-column="33" selection-end-line="614" selection-end-column="33" />
               <folding>
                 <element signature="docComment;class#Main#0" />
-                <element signature="method#main#0;class#Main#0" />
-                <element signature="method#menu_inicial#0;class#Main#0" />
-                <element signature="method#limpa_frame#0;class#Main#0" />
+                <element signature="docComment;method#Main#0;class#Main#0" />
+                <element signature="class#1533:2694" />
+                <element signature="method#windowOpened#0;class#1533:2694" />
+                <element signature="method#windowClosing#0;class#1533:2694" />
+                <element signature="method#windowClosed#0;class#1533:2694" />
+                <element signature="method#windowIconified#0;class#1533:2694" />
+                <element signature="method#windowDeiconified#0;class#1533:2694" />
+                <element signature="method#windowActivated#0;class#1533:2694" />
+                <element signature="method#windowDeactivated#0;class#1533:2694" />
+                <element signature="docComment;method#main#0;class#Main#0" />
+                <element signature="e#2890#2891#0" expanded="true" />
+                <element signature="e#2931#2932#0" expanded="true" />
+                <element signature="docComment;method#menu_inicial#0;class#Main#0" />
+                <element signature="docComment;method#limpa_frame#0;class#Main#0" />
+                <element signature="docComment;method#verifica_voto_null#0;class#Main#0" />
                 <element signature="method#verifica_voto_null#0;class#Main#0" />
-                <element signature="method#pagina_votar_viagem#0;class#Main#0" />
-                <element signature="method#votar_pontos_hot_not#0;class#Main#0" />
-                <element signature="method#pagina_inicial#0;class#Main#0" />
+                <element signature="docComment;method#pagina_votar_viagem#0;class#Main#0" />
+                <element signature="docComment;method#votar_pontos_hot_not#0;class#Main#0" />
+                <element signature="docComment;method#montante_acumulado#0;class#Main#0" />
+                <element signature="docComment;method#pagina_inicial#0;class#Main#0" />
+                <element signature="docComment;method#registar_aluno#0;class#Main#0" />
                 <element signature="method#registar_aluno#0;class#Main#0" />
-                <element signature="method#ver_perfil#0;class#Main#0" />
-                <element signature="method#viagens_possiveis_com_museu#0;class#Main#0" />
-                <element signature="method#devolve_local_popular#0;class#Main#0" />
-                <element signature="method#interesse_popular#0;class#Main#0" />
-                <element signature="method#compara_ponto_interesse#0;class#Main#0" />
-                <element signature="class#voto_custo_comparator#0;class#Main#0" />
-                <element signature="class#voto_pontuacao_ponto_interesse_comparator#0;class#Main#0" />
-                <element signature="method#compare#0;class#voto_pontuacao_ponto_interesse_comparator#0;class#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Aluno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Aluno_licenciado.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="59" column="32" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="docComment;method#ver_perfil#0;class#Main#0" />
+                <element signature="docComment;method#escolher_viagem_com_museu#0;class#Main#0" />
+                <element signature="method#escolher_viagem_com_museu#0;class#Main#0" />
+                <element signature="docComment;method#gerar_viagens_com_museu#0;class#Main#0" />
+                <element signature="docComment;method#todas_as_combinacoes_v02#0;class#Main#0" />
+                <element signature="docComment;method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+                <element signature="method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+                <element signature="docComment;method#ver_populares#0;class#Main#0" />
+                <element signature="method#ver_populares#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -152,48 +205,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aluno_mestrado.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="60" column="31" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="731">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ficheiro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+            <state relative-caret-position="381">
+              <caret line="306" column="57" selection-start-line="306" selection-start-column="57" selection-end-line="306" selection-end-column="57" />
               <folding>
                 <element signature="docComment;class#Ficheiro#0" />
-                <element signature="method#Ficheiro#1;class#Ficheiro#0" />
-                <element signature="method#add_to_lista_local#0;class#Ficheiro#0" />
+                <element signature="method#atualiza_populares#0;class#Ficheiro#0" />
+                <element signature="method#devolve_populares#0;class#Ficheiro#0" />
+                <element signature="docComment;method#add_to_lista_aluno#0;class#Ficheiro#0" />
                 <element signature="method#add_to_lista_aluno#0;class#Ficheiro#0" />
-                <element signature="method#leitura_obj_lista_local#0;class#Ficheiro#0" />
+                <element signature="docComment;method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+                <element signature="docComment;method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+                <element signature="method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+                <element signature="method#devolve_lista_pontos_interesse#0;class#Ficheiro#0" />
+                <element signature="method#atualiza_corrente_viagem#0;class#Ficheiro#0" />
+                <element signature="class#ponto_interesse_sort_by_pontuacao_crescente#0;class#Ficheiro#0" />
+                <element signature="method#compare#0;class#ponto_interesse_sort_by_pontuacao_crescente#0;class#Ficheiro#0" />
+                <element signature="class#local_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+                <element signature="method#compare#0;class#local_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+                <element signature="class#ponto_interesse_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+                <element signature="method#compare#0;class#ponto_interesse_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
                 <element signature="method#leitura_obj_lista_aluno#0;class#Ficheiro#0" />
-                <element signature="method#setNome_ficheiro_obj_local#0;class#Ficheiro#0" />
-                <element signature="method#setNome_ficheiro_obj_aluno#0;class#Ficheiro#0" />
-                <element signature="method#setNome_txt_ficheiro_local#0;class#Ficheiro#0" />
-                <element signature="method#setNome_txt_ficheiro_aluno#0;class#Ficheiro#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Museu.java">
+        <entry file="file://$PROJECT_DIR$/src/Local.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            <state relative-caret-position="527">
+              <caret line="71" column="27" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
               <folding>
-                <element signature="e#1614#1615#0" expanded="true" />
-                <element signature="e#1644#1645#0" expanded="true" />
+                <element signature="docComment;class#Local#0" />
+                <element signature="method#Local#0;class#Local#0" />
+                <element signature="method#Local#1;class#Local#0" />
+                <element signature="method#Local#2;class#Local#0" />
+                <element signature="method#setLista_pontos_interesse#0;class#Local#0" />
+                <element signature="docComment;method#votar_pontuacao_mestrado#0;class#Local#0" />
+                <element signature="docComment;method#votar_pontuacao_voto#0;class#Local#0" />
+                <element signature="docComment;method#add_ponto_interesse#0;class#Local#0" />
+                <element signature="method#remove_ponto_interesse#0;class#Local#0" />
+                <element signature="docComment;method#toString#0;class#Local#0" />
               </folding>
             </state>
           </provider>
@@ -202,33 +263,99 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ponto_interesse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Local.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="docComment;class#Ponto_interesse#0" />
+                <element signature="method#Ponto_interesse#0;class#Ponto_interesse#0" />
+                <element signature="method#Ponto_interesse#1;class#Ponto_interesse#0" />
+                <element signature="method#Ponto_interesse#2;class#Ponto_interesse#0" />
+                <element signature="docComment;method#add_pontuacao_utilizador#0;class#Ponto_interesse#0" />
+                <element signature="docComment;method#set_pontuacao_licenciado#0;class#Ponto_interesse#0" />
+                <element signature="docComment;method#qual_tipo#0;class#Ponto_interesse#0" />
+                <element signature="method#setNome_local_ponto_interesse#0;class#Ponto_interesse#0" />
+                <element signature="docComment;method#toString#0;class#Ponto_interesse#0" />
+                <element signature="method#toString#0;class#Ponto_interesse#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ponto_interesse_local.java">
+        <entry file="file://$PROJECT_DIR$/src/Museu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="969">
+              <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Parque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="52" selection-start-line="49" selection-start-column="19" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
               <folding>
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="docComment;class#Bar#0" />
+                <element signature="method#Bar#0;class#Bar#0" />
+                <element signature="method#Bar#1;class#Bar#0" />
+                <element signature="method#Bar#2;class#Bar#0" />
+                <element signature="method#Bar#3;class#Bar#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aluno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#votar_ponto_interesse_local#0;class#Aluno#0" />
+                <element signature="docComment;method#votar_viagem_com_museu#0;class#Aluno#0" />
+                <element signature="docComment;method#votar_viagem#0;class#Aluno#0" />
+                <element signature="e#2464#2465#0" expanded="true" />
+                <element signature="e#2494#2495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Viagem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="docComment;class#Viagem#0" />
+                <element signature="method#Viagem#0;class#Viagem#0" />
+                <element signature="method#Viagem#1;class#Viagem#0" />
+                <element signature="e#1261#1262#0" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="method#votar_locais#0;class#Viagem#0" />
+                <element signature="method#custo_transporte#0;class#Viagem#0" />
+                <element signature="method#calcula_distancia_coordenadas#0;class#Viagem#0" />
+                <element signature="method#atualiza_pontuacao#0;class#Viagem#0" />
+                <element signature="method#add_ponto_interesse#0;class#Viagem#0" />
+                <element signature="method#setLocal1#0;class#Viagem#0" />
+                <element signature="method#setLocal2#0;class#Viagem#0" />
+                <element signature="method#setLocal3#0;class#Viagem#0" />
+                <element signature="method#atualiza_custo_total#0;class#Viagem#0" />
+                <element signature="method#setLista_ponto_interesse#0;class#Viagem#0" />
+                <element signature="method#imprime_lista_pontos_interesse#0;class#Viagem#0" />
+                <element signature="method#getCusto_transporte#0;class#Viagem#0" />
+                <element signature="method#toString#0;class#Viagem#0" />
               </folding>
             </state>
           </provider>
@@ -241,6 +368,19 @@
       <find>lista_locais_pontos</find>
       <find>em pa</find>
       <find>JOP</find>
+      <find>if(aluno_corrente.getviagem</find>
+      <find>getViagem_escolhi</find>
+      <find>org.apa</find>
+      <find>org.</find>
+      <find>trans</find>
+      <find>custo_trans</find>
+      <find>getCusto_Tra</find>
+      <find>com_mus</find>
+      <find>limpa_frame</find>
+      <find>devolve</find>
+      <find>null</find>
+      <find>ArrayList&lt;</find>
+      <find>lista_locais</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -249,18 +389,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Viagem.java" />
-        <option value="$PROJECT_DIR$/src/Parque.java" />
-        <option value="$PROJECT_DIR$/src/Museu.java" />
-        <option value="$PROJECT_DIR$/src/Bar.java" />
-        <option value="$PROJECT_DIR$/src/Universidade.java" />
-        <option value="$PROJECT_DIR$/src/Aluno_licenciado.java" />
         <option value="$PROJECT_DIR$/src/Aluno_mestrado.java" />
+        <option value="$PROJECT_DIR$/src/Bar.java" />
+        <option value="$PROJECT_DIR$/src/Parque.java" />
         <option value="$PROJECT_DIR$/src/Local.java" />
+        <option value="$PROJECT_DIR$/src/Museu.java" />
+        <option value="$PROJECT_DIR$/src/Aluno_licenciado.java" />
+        <option value="$PROJECT_DIR$/src/Universidade.java" />
         <option value="$PROJECT_DIR$/src/Ponto_interesse.java" />
+        <option value="$PROJECT_DIR$/ficheiro_local.txt" />
         <option value="$PROJECT_DIR$/src/Aluno.java" />
-        <option value="$PROJECT_DIR$/src/Ficheiro.java" />
+        <option value="$PROJECT_DIR$/src/Viagem.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Ficheiro.java" />
       </list>
     </option>
   </component>
@@ -270,9 +411,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
+    <option name="x" value="-7" />
+    <option name="width" value="604" />
     <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -282,6 +429,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,16 +446,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543613056643" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SD/Ficha6_WebProgramming/Hey" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547228754373" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15722656" />
+    <property name="project.structure.side.proportion" value="0.20344828" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -362,18 +515,46 @@
       <workItem from="1543588942022" duration="6496000" />
       <workItem from="1543662913073" duration="220000" />
       <workItem from="1543664375455" duration="657000" />
+      <workItem from="1543795413889" duration="671000" />
+      <workItem from="1543830427955" duration="13520000" />
+      <workItem from="1543852859828" duration="7067000" />
+      <workItem from="1543879733008" duration="587000" />
+      <workItem from="1543915793373" duration="9872000" />
+      <workItem from="1544113505836" duration="14686000" />
+      <workItem from="1544174239254" duration="6235000" />
+      <workItem from="1544355229458" duration="2759000" />
+      <workItem from="1544385284350" duration="135000" />
+      <workItem from="1544387716839" duration="12486000" />
+      <workItem from="1544435479312" duration="11728000" />
+      <workItem from="1544487034040" duration="12976000" />
+      <workItem from="1544718570840" duration="4778000" />
+      <workItem from="1544746560679" duration="660000" />
+      <workItem from="1545081893899" duration="6859000" />
+      <workItem from="1545144041856" duration="734000" />
+      <workItem from="1545225998150" duration="10304000" />
+      <workItem from="1547224615599" duration="4450000" />
+      <workItem from="1547410065366" duration="7000" />
+      <workItem from="1547482529514" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59461000" />
+    <option name="totallyTimeSpent" value="179980000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11497731" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -381,14 +562,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3276923" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.30461538" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3276923" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.23846154" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32923076" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32923076" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -399,7 +580,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,35 +590,250 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>656</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>655</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>648</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>751</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>763</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>768</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>749</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aluno.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ficheiro.java</url>
+          <line>258</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ficheiro.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>448</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>985</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>991</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>992</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>1006</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagem.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>524</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>527</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>531</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>534</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>535</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>403</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>404</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>407</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>408</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>415</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>414</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>416</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>756</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aluno_licenciado.java</url>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>label_viagem_com_museu</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ficheiro_obj_aluno">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bar.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Viagem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Universidade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="149">
+          <caret line="516" selection-start-line="516" selection-end-line="516" />
         </state>
       </provider>
     </entry>
@@ -447,113 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Universidade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="544" column="31" selection-start-line="544" selection-start-column="31" selection-end-line="544" selection-end-column="31" />
-          <folding>
-            <element signature="docComment;class#Main#0" />
-            <element signature="method#main#0;class#Main#0" />
-            <element signature="method#menu_inicial#0;class#Main#0" />
-            <element signature="method#limpa_frame#0;class#Main#0" />
-            <element signature="method#verifica_voto_null#0;class#Main#0" />
-            <element signature="method#pagina_votar_viagem#0;class#Main#0" />
-            <element signature="method#votar_pontos_hot_not#0;class#Main#0" />
-            <element signature="method#pagina_inicial#0;class#Main#0" />
-            <element signature="method#registar_aluno#0;class#Main#0" />
-            <element signature="method#ver_perfil#0;class#Main#0" />
-            <element signature="method#viagens_possiveis_com_museu#0;class#Main#0" />
-            <element signature="method#devolve_local_popular#0;class#Main#0" />
-            <element signature="method#interesse_popular#0;class#Main#0" />
-            <element signature="method#compara_ponto_interesse#0;class#Main#0" />
-            <element signature="class#voto_custo_comparator#0;class#Main#0" />
-            <element signature="class#voto_pontuacao_ponto_interesse_comparator#0;class#Main#0" />
-            <element signature="method#compare#0;class#voto_pontuacao_ponto_interesse_comparator#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aluno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aluno_licenciado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="59" column="32" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aluno_mestrado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ficheiro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-          <folding>
-            <element signature="docComment;class#Ficheiro#0" />
-            <element signature="method#Ficheiro#1;class#Ficheiro#0" />
-            <element signature="method#add_to_lista_local#0;class#Ficheiro#0" />
-            <element signature="method#add_to_lista_aluno#0;class#Ficheiro#0" />
-            <element signature="method#leitura_obj_lista_local#0;class#Ficheiro#0" />
-            <element signature="method#leitura_obj_lista_aluno#0;class#Ficheiro#0" />
-            <element signature="method#setNome_ficheiro_obj_local#0;class#Ficheiro#0" />
-            <element signature="method#setNome_ficheiro_obj_aluno#0;class#Ficheiro#0" />
-            <element signature="method#setNome_txt_ficheiro_local#0;class#Ficheiro#0" />
-            <element signature="method#setNome_txt_ficheiro_aluno#0;class#Ficheiro#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Museu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="e#1614#1615#0" expanded="true" />
-            <element signature="e#1644#1645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ponto_interesse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Local.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        <state relative-caret-position="279">
+          <caret line="84" column="14" lean-forward="true" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -561,13 +855,201 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ficheiro_local.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno_licenciado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8534">
+          <caret line="614" column="33" selection-start-line="614" selection-start-column="33" selection-end-line="614" selection-end-column="33" />
           <folding>
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
+            <element signature="docComment;class#Main#0" />
+            <element signature="docComment;method#Main#0;class#Main#0" />
+            <element signature="class#1533:2694" />
+            <element signature="method#windowOpened#0;class#1533:2694" />
+            <element signature="method#windowClosing#0;class#1533:2694" />
+            <element signature="method#windowClosed#0;class#1533:2694" />
+            <element signature="method#windowIconified#0;class#1533:2694" />
+            <element signature="method#windowDeiconified#0;class#1533:2694" />
+            <element signature="method#windowActivated#0;class#1533:2694" />
+            <element signature="method#windowDeactivated#0;class#1533:2694" />
+            <element signature="docComment;method#main#0;class#Main#0" />
+            <element signature="e#2890#2891#0" expanded="true" />
+            <element signature="e#2931#2932#0" expanded="true" />
+            <element signature="docComment;method#menu_inicial#0;class#Main#0" />
+            <element signature="docComment;method#limpa_frame#0;class#Main#0" />
+            <element signature="docComment;method#verifica_voto_null#0;class#Main#0" />
+            <element signature="method#verifica_voto_null#0;class#Main#0" />
+            <element signature="docComment;method#pagina_votar_viagem#0;class#Main#0" />
+            <element signature="docComment;method#votar_pontos_hot_not#0;class#Main#0" />
+            <element signature="docComment;method#montante_acumulado#0;class#Main#0" />
+            <element signature="docComment;method#pagina_inicial#0;class#Main#0" />
+            <element signature="docComment;method#registar_aluno#0;class#Main#0" />
+            <element signature="method#registar_aluno#0;class#Main#0" />
+            <element signature="docComment;method#ver_perfil#0;class#Main#0" />
+            <element signature="docComment;method#escolher_viagem_com_museu#0;class#Main#0" />
+            <element signature="method#escolher_viagem_com_museu#0;class#Main#0" />
+            <element signature="docComment;method#gerar_viagens_com_museu#0;class#Main#0" />
+            <element signature="docComment;method#todas_as_combinacoes_v02#0;class#Main#0" />
+            <element signature="docComment;method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+            <element signature="method#atualiza_jlist_votar_pontos_hot_not#0;class#Main#0" />
+            <element signature="docComment;method#ver_populares#0;class#Main#0" />
+            <element signature="method#ver_populares#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno_mestrado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Local.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="71" column="27" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+          <folding>
+            <element signature="docComment;class#Local#0" />
+            <element signature="method#Local#0;class#Local#0" />
+            <element signature="method#Local#1;class#Local#0" />
+            <element signature="method#Local#2;class#Local#0" />
+            <element signature="method#setLista_pontos_interesse#0;class#Local#0" />
+            <element signature="docComment;method#votar_pontuacao_mestrado#0;class#Local#0" />
+            <element signature="docComment;method#votar_pontuacao_voto#0;class#Local#0" />
+            <element signature="docComment;method#add_ponto_interesse#0;class#Local#0" />
+            <element signature="method#remove_ponto_interesse#0;class#Local#0" />
+            <element signature="docComment;method#toString#0;class#Local#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ponto_interesse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="docComment;class#Ponto_interesse#0" />
+            <element signature="method#Ponto_interesse#0;class#Ponto_interesse#0" />
+            <element signature="method#Ponto_interesse#1;class#Ponto_interesse#0" />
+            <element signature="method#Ponto_interesse#2;class#Ponto_interesse#0" />
+            <element signature="docComment;method#add_pontuacao_utilizador#0;class#Ponto_interesse#0" />
+            <element signature="docComment;method#set_pontuacao_licenciado#0;class#Ponto_interesse#0" />
+            <element signature="docComment;method#qual_tipo#0;class#Ponto_interesse#0" />
+            <element signature="method#setNome_local_ponto_interesse#0;class#Ponto_interesse#0" />
+            <element signature="docComment;method#toString#0;class#Ponto_interesse#0" />
+            <element signature="method#toString#0;class#Ponto_interesse#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Museu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="52" selection-start-line="49" selection-start-column="19" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#Bar#0" />
+            <element signature="method#Bar#0;class#Bar#0" />
+            <element signature="method#Bar#1;class#Bar#0" />
+            <element signature="method#Bar#2;class#Bar#0" />
+            <element signature="method#Bar#3;class#Bar#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#votar_ponto_interesse_local#0;class#Aluno#0" />
+            <element signature="docComment;method#votar_viagem_com_museu#0;class#Aluno#0" />
+            <element signature="docComment;method#votar_viagem#0;class#Aluno#0" />
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2494#2495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Viagem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="docComment;class#Viagem#0" />
+            <element signature="method#Viagem#0;class#Viagem#0" />
+            <element signature="method#Viagem#1;class#Viagem#0" />
+            <element signature="e#1261#1262#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="method#votar_locais#0;class#Viagem#0" />
+            <element signature="method#custo_transporte#0;class#Viagem#0" />
+            <element signature="method#calcula_distancia_coordenadas#0;class#Viagem#0" />
+            <element signature="method#atualiza_pontuacao#0;class#Viagem#0" />
+            <element signature="method#add_ponto_interesse#0;class#Viagem#0" />
+            <element signature="method#setLocal1#0;class#Viagem#0" />
+            <element signature="method#setLocal2#0;class#Viagem#0" />
+            <element signature="method#setLocal3#0;class#Viagem#0" />
+            <element signature="method#atualiza_custo_total#0;class#Viagem#0" />
+            <element signature="method#setLista_ponto_interesse#0;class#Viagem#0" />
+            <element signature="method#imprime_lista_pontos_interesse#0;class#Viagem#0" />
+            <element signature="method#getCusto_transporte#0;class#Viagem#0" />
+            <element signature="method#toString#0;class#Viagem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ficheiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="306" column="57" selection-start-line="306" selection-start-column="57" selection-end-line="306" selection-end-column="57" />
+          <folding>
+            <element signature="docComment;class#Ficheiro#0" />
+            <element signature="method#atualiza_populares#0;class#Ficheiro#0" />
+            <element signature="method#devolve_populares#0;class#Ficheiro#0" />
+            <element signature="docComment;method#add_to_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="method#add_to_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="docComment;method#leitura_txt_lista_aluno#0;class#Ficheiro#0" />
+            <element signature="docComment;method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+            <element signature="method#leitura_txt_lista_local#0;class#Ficheiro#0" />
+            <element signature="method#devolve_lista_pontos_interesse#0;class#Ficheiro#0" />
+            <element signature="method#atualiza_corrente_viagem#0;class#Ficheiro#0" />
+            <element signature="class#ponto_interesse_sort_by_pontuacao_crescente#0;class#Ficheiro#0" />
+            <element signature="method#compare#0;class#ponto_interesse_sort_by_pontuacao_crescente#0;class#Ficheiro#0" />
+            <element signature="class#local_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+            <element signature="method#compare#0;class#local_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+            <element signature="class#ponto_interesse_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+            <element signature="method#compare#0;class#ponto_interesse_sort_by_pontuacao_decrescente#0;class#Ficheiro#0" />
+            <element signature="method#leitura_obj_lista_aluno#0;class#Ficheiro#0" />
           </folding>
         </state>
       </provider>
@@ -575,6 +1057,67 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>POO_1819_projeto_v02:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>POO_1819_projeto_v02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -582,6 +1125,18 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
               </list>
             </option>
           </splitter-proportions>
